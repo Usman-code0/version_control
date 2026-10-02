@@ -1,1 +1,2 @@
 "Hello, this is my first Git project!" 
+"I am learning version control with Git and GitHub." 
