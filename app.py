@@ -1,6 +1,6 @@
 def greet(name):
-   
-    return f"Hello, {name}! Welcome to the Version Control Lab."
+    \
+    return f"Hello, {name}! Welcome to the Version Control Lab. You are now logged in."
 
 
 def add(a, b):
